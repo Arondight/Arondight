@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -10,8 +10,6 @@
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 4.5 MB GitHub 存储空间 
- > 
-> 🏆 37 个贡献，在 2024 年
  > 
 > 🚫 不开放招聘
  > 
@@ -72,5 +70,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2024-11-26 20:19:47 UTC
+ Last Updated on 2024-11-27 20:19:57 UTC
 <!--END_SECTION:waka-->
