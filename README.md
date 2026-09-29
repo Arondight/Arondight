@@ -1,9 +1,11 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2053%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-39-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-926.14%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -46,45 +48,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
-C                        6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
-Other                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-CMake                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Markdown                 7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+C                        7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 编辑器: 
-Vim                      15 hrs 11 mins      ████████████████████░░░░░   81.19 % 
-Pi                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Unknown Editor           1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Vim                      16 hrs 56 mins      ████████████████████░░░░░   80.20 % 
+Pi                       2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Unknown Editor           1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 💻 操作系统: 
-WSL                      17 hrs 53 mins      ████████████████████████░   95.64 % 
-Linux                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+WSL                      18 hrs 55 mins      ██████████████████████░░░   89.58 % 
+Linux                    2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 28 mins (77.34%)
+⏱ AI Coding Time: 14 hrs 42 mins (69.63%)
 
-✍️ 4,928 lines written by AI, 256 lines written by hand (95.06% AI-written)
+✍️ 5,446 lines written by AI, 2,659 lines written by hand (67.19% AI-written)
 
-🔤 283,981,355 Input Tokens, 1,205,739 Output Tokens
+🔤 285,809,480 Input Tokens, 1,310,943 Output Tokens
 
-💵 $906.69 Estimated AI Cost This Week
+💵 $971.08 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 123 AI Prompts
+🧠 20 AI Sessions, 128 AI Prompts
 
-Pi                       2,710 lines         █████████████░░░░░░░░░░░░   52.81 % 
-Deepseek                 1,843 lines         █████████░░░░░░░░░░░░░░░░   35.91 % 
-OpenCode                 579 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Pi                       2,710 lines         █████████████░░░░░░░░░░░░   50.42 % 
+Deepseek                 2,086 lines         ██████████░░░░░░░░░░░░░░░   38.81 % 
+OpenCode                 579 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.06% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
+🤖 AI-Driven — 67.19% of written lines came from AI
+📝 Concise Prompter — average 357 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.36% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.91% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -104,5 +106,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-29 00:22:21 UTC
+ Last Updated on 2026-09-29 23:38:11 UTC
 <!--END_SECTION:waka-->
