@@ -1,11 +1,11 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-44-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-42-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-926.27%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -48,43 +48,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-C                        3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-Other                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Other                    2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+C                        2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+JSON                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🔥 编辑器: 
-Vim                      10 hrs 15 mins      ██████████████████░░░░░░░   73.93 % 
-Pi                       2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Unknown Editor           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Vim                      6 hrs 26 mins       ████████████████░░░░░░░░░   64.05 % 
+Pi                       2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Unknown Editor           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 💻 操作系统: 
-WSL                      11 hrs 50 mins      █████████████████████░░░░   85.37 % 
-Linux                    2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+WSL                      8 hrs 1 min         ████████████████████░░░░░   79.82 % 
+Linux                    2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 58 mins (57.46%)
+⏱ AI Coding Time: 4 hrs 9 mins (41.34%)
 
-✍️ 4,468 lines written by AI, 2,657 lines written by hand (62.71% AI-written)
+✍️ 2,434 lines written by AI, 2,657 lines written by hand (47.81% AI-written)
 
-🔤 199,652,466 Input Tokens, 975,194 Output Tokens
+🔤 74,451,113 Input Tokens, 505,086 Output Tokens
 
-💵 $707.63 Estimated AI Cost This Week
+💵 $324.97 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 63 AI Prompts
+🧠 9 AI Sessions, 43 AI Prompts
 
-Pi                       2,292 lines         █████████████░░░░░░░░░░░░   52.35 % 
-Deepseek                 2,086 lines         ████████████░░░░░░░░░░░░░   47.65 % 
+Deepseek                 2,086 lines         ████████████████████████░   97.61 % 
+Pi                       51 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.71% of written lines came from AI
-📝 Concise Prompter — average 474 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 69.19% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.81% of written lines came from AI
+📄 Detailed Prompter — average 670 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 80.98% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -104,5 +104,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-02 23:43:02 UTC
+ Last Updated on 2026-10-03 22:51:52 UTC
 <!--END_SECTION:waka-->
