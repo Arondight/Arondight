@@ -1,9 +1,9 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -13,11 +13,11 @@
 
 > 📦  使用了 4.5 MB GitHub 存储空间 
  > 
-> 🏆 354 个贡献，在 2026 年
+> 🏆 356 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
-> 📜 45 个公共仓库 
+> 📜 46 个公共仓库 
  > 
 > 🔑 0 个私人仓库 
  > 
@@ -48,52 +48,52 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    21 hrs 28 mins      █████████████████░░░░░░░░   67.79 % 
-Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-C                        2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    20 hrs 45 mins      ████████████████░░░░░░░░░   63.66 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+C                        2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Python                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 编辑器: 
-Pi                       25 hrs 47 mins      ████████████████████░░░░░   81.38 % 
-Vim                      5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Pi                       24 hrs 54 mins      ███████████████████░░░░░░   76.37 % 
+Vim                      7 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 
 💻 操作系统: 
-WSL                      26 hrs 27 mins      █████████████████████░░░░   83.50 % 
-Windows                  4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+WSL                      29 hrs 15 mins      ██████████████████████░░░   89.70 % 
+Windows                  3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (25.21%)
+⏱ AI Coding Time: 9 hrs 34 mins (29.34%)
 
-✍️ 15,372 lines written by AI, 41 lines written by hand (99.73% AI-written)
+✍️ 15,208 lines written by AI, 42 lines written by hand (99.72% AI-written)
 
-🔤 76,964,526 Input Tokens, 2,372,977 Output Tokens
+🔤 88,099,068 Input Tokens, 2,679,751 Output Tokens
 
-💵 $1826.96 Estimated AI Cost This Week
+💵 $2133.87 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 171 AI Prompts
+🧠 9 AI Sessions, 188 AI Prompts
 
-DeepSeek                 5,573 lines         █████████████████████████   100.00 % 
+DeepSeek                 5,662 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.72% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
 
 ```text
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -103,5 +103,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-15 23:04:31 UTC
+ Last Updated on 2026-10-16 22:43:21 UTC
 <!--END_SECTION:waka-->
