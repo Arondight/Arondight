@@ -48,41 +48,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    15 hrs 18 mins      ████████████████░░░░░░░░░   65.24 % 
-Markdown                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Python                   2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-C                        1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-CMake                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    20 hrs 37 mins      ██████████████████░░░░░░░   70.54 % 
+Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Python                   2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+C                        1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+CMake                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 编辑器: 
-Pi                       17 hrs 37 mins      ███████████████████░░░░░░   75.12 % 
-Vim                      5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Pi                       23 hrs 2 mins       ████████████████████░░░░░   78.81 % 
+Vim                      6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 操作系统: 
-WSL                      22 hrs 44 mins      ████████████████████████░   96.89 % 
-Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+WSL                      28 hrs 30 mins      ████████████████████████░   97.47 % 
+Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 16 mins (30.99%)
+⏱ AI Coding Time: 7 hrs 36 mins (26.03%)
 
-✍️ 11,595 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 11,910 lines written by AI, 4 lines written by hand (99.97% AI-written)
 
-🔤 58,774,098 Input Tokens, 2,101,224 Output Tokens
+🔤 57,799,584 Input Tokens, 2,125,889 Output Tokens
 
-💵 $1818.70 Estimated AI Cost This Week
+💵 $1827.88 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 128 AI Prompts
+🧠 7 AI Sessions, 127 AI Prompts
 
-DeepSeek                 4,705 lines         █████████████████████████   100.00 % 
+DeepSeek                 4,695 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 32 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 111 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -102,5 +104,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-19 23:29:34 UTC
+ Last Updated on 2026-10-20 23:06:32 UTC
 <!--END_SECTION:waka-->
