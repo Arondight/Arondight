@@ -13,7 +13,7 @@
 
 > 📦  使用了 4.5 MB GitHub 存储空间 
  > 
-> 🏆 359 个贡献，在 2026 年
+> 🏆 362 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -48,43 +48,44 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    11 hrs 34 mins      ████████████████████░░░░░   78.84 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-C                        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    9 hrs 1 min         ██████████████████████░░░   89.64 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 编辑器: 
-Pi                       11 hrs 44 mins      ████████████████████░░░░░   79.98 % 
-Vim                      2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Pi                       9 hrs 11 mins       ███████████████████████░░   91.32 % 
+Vim                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 操作系统: 
-WSL                      14 hrs 28 mins      █████████████████████████   98.52 % 
-Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+WSL                      9 hrs 39 mins       ████████████████████████░   95.94 % 
+Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 52 mins (19.57%)
+⏱ AI Coding Time: 49 mins (8.25%)
 
-✍️ 669 lines written by AI, 4 lines written by hand (99.41% AI-written)
+✍️ 522 lines written by AI, 32 lines written by hand (94.22% AI-written)
 
-🔤 23,334,884 Input Tokens, 523,523 Output Tokens
+🔤 116,678 Input Tokens, 95,680 Output Tokens
 
-💵 $533.75 Estimated AI Cost This Week
+💵 $72.23 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 45 AI Prompts
+🧠 6 AI Sessions, 11 AI Prompts
 
-DeepSeek                 209 lines           █████████████████████████   100.00 % 
+DeepSeek                 62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.33% of changed lines were hand-edited
+🤖 AI-Driven — 94.22% of written lines came from AI
+📄 Detailed Prompter — average 596 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 8.41% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -104,5 +105,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-22 23:09:36 UTC
+ Last Updated on 2026-10-23 23:05:03 UTC
 <!--END_SECTION:waka-->
