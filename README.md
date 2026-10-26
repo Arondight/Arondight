@@ -7,7 +7,7 @@
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-929.53%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-929.55%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -24,20 +24,20 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     1179 commits        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-🌆 白天                     1639 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 傍晚                     1736 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌞 早晨                     1179 commits        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+🌆 白天                     1639 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌃 傍晚                     1737 commits        █████████░░░░░░░░░░░░░░░░   35.20 % 
 🌙 晚上                     380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      816 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-星期二                      806 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-星期三                      808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-星期四                      771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+星期一                      816 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+星期二                      806 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+星期三                      808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+星期四                      771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 星期五                      569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-星期六                      515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+星期六                      516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 星期日                      649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
@@ -50,7 +50,7 @@
 💬 编程语言: 
 Other                    7 hrs               ██████████████████████░░░   87.04 % 
 Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
@@ -58,11 +58,11 @@ INI                      2 mins              ░░░░░░░░░░░�
 Pi                       7 hrs 10 mins       ██████████████████████░░░   89.15 % 
 Vim                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 操作系统: 
 WSL                      7 hrs 38 mins       ████████████████████████░   94.92 % 
-Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
@@ -71,7 +71,7 @@ Windows                  4 mins              ░░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 49 mins (10.32%)
 
-✍️ 522 lines written by AI, 32 lines written by hand (94.22% AI-written)
+✍️ 522 lines written by AI, 5 lines written by hand (99.05% AI-written)
 
 🔤 116,678 Input Tokens, 95,680 Output Tokens
 
@@ -82,10 +82,10 @@ Windows                  4 mins              ░░░░░░░░░░░�
 DeepSeek                 62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.22% of written lines came from AI
+🤖 AI-Driven — 99.05% of written lines came from AI
 📄 Detailed Prompter — average 596 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.41% of changed lines were hand-edited
+🚀 High AI Trust — 3.86% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -105,5 +105,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-25 22:29:07 UTC
+ Last Updated on 2026-10-26 23:45:48 UTC
 <!--END_SECTION:waka-->
