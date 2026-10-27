@@ -13,7 +13,7 @@
 
 > 📦  使用了 4.5 MB GitHub 存储空间 
  > 
-> 🏆 365 个贡献，在 2026 年
+> 🏆 370 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -26,18 +26,18 @@
 ```text
 🌞 早晨                     1179 commits        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 🌆 白天                     1639 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌃 傍晚                     1737 commits        █████████░░░░░░░░░░░░░░░░   35.20 % 
+🌃 傍晚                     1738 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
 🌙 晚上                     380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
 星期一                      816 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-星期二                      806 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+星期二                      807 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
 星期三                      808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 星期四                      771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 星期五                      569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-星期六                      516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+星期六                      516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 星期日                      649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
@@ -48,44 +48,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    7 hrs               ██████████████████████░░░   87.04 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C                        2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.55 % 
+Other                    1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 编辑器: 
-Pi                       7 hrs 10 mins       ██████████████████████░░░   89.15 % 
-Vim                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Vim                      1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.51 % 
+Pi                       1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+OpenCode                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Opencode Cli             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 操作系统: 
-WSL                      7 hrs 38 mins       ████████████████████████░   94.92 % 
-Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Linux                    3 hrs 32 mins       ██████████████████░░░░░░░   72.41 % 
+WSL                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (10.32%)
+⏱ AI Coding Time: 3 hrs 1 min (61.71%)
 
-✍️ 522 lines written by AI, 5 lines written by hand (99.05% AI-written)
+✍️ 1,040 lines written by AI, 11 lines written by hand (98.95% AI-written)
 
-🔤 116,678 Input Tokens, 95,680 Output Tokens
+🔤 931,109 Input Tokens, 319,828 Output Tokens
 
-💵 $72.23 Estimated AI Cost This Week
+💵 $169.23 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 38 AI Sessions, 60 AI Prompts
 
-DeepSeek                 62 lines            █████████████████████████   100.00 % 
+GLM                      1,122 lines         █████████████████████████   98.85 % 
+DeepSeek                 13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
+🤖 AI-Driven — 98.95% of written lines came from AI
+📄 Detailed Prompter — average 635 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.86% of changed lines were hand-edited
+🚀 High AI Trust — 2.07% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -105,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-26 23:45:48 UTC
+ Last Updated on 2026-10-27 23:41:15 UTC
 <!--END_SECTION:waka-->
