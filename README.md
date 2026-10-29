@@ -1,9 +1,9 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,37 +48,37 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
-Other                    3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+C                        3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.20 % 
+Other                    3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 编辑器: 
-Vim                      4 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.97 % 
-Pi                       3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-OpenCode                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Vim                      4 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.41 % 
+Pi                       3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+OpenCode                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 操作系统: 
-Linux                    5 hrs 9 mins        ██████████████░░░░░░░░░░░   55.22 % 
-WSL                      4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.05 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Linux                    6 hrs 2 mins        ████████████████░░░░░░░░░   62.71 % 
+WSL                      3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
+Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (60.67%)
+⏱ AI Coding Time: 5 hrs 40 mins (58.89%)
 
 ✍️ 1,394 lines written by AI, 49 lines written by hand (96.6% AI-written)
 
-🔤 2,526,832 Input Tokens, 544,429 Output Tokens
+🔤 2,529,277 Input Tokens, 549,544 Output Tokens
 
-💵 $339.11 Estimated AI Cost This Week
+💵 $339.28 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 117 AI Prompts
+🧠 56 AI Sessions, 118 AI Prompts
 
 GLM                      1,396 lines         ███████████████████████░░   93.44 % 
 DeepSeek                 98 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
@@ -87,7 +87,7 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.6% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
+📄 Detailed Prompter — average 581 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 4.11% of changed lines were hand-edited
 ```
@@ -109,5 +109,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-29 00:05:44 UTC
+ Last Updated on 2026-10-29 23:57:52 UTC
 <!--END_SECTION:waka-->
