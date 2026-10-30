@@ -1,7 +1,7 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2049%20mins-blue?style=flat)
 
@@ -48,48 +48,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C                        3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.20 % 
-Other                    3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    6 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.69 % 
+C                        4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 编辑器: 
-Vim                      4 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.41 % 
-Pi                       3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
-OpenCode                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Vim                      6 hrs 44 mins       █████████████░░░░░░░░░░░░   50.11 % 
+Pi                       5 hrs               █████████░░░░░░░░░░░░░░░░   37.22 % 
+OpenCode                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 操作系统: 
-Linux                    6 hrs 2 mins        ████████████████░░░░░░░░░   62.71 % 
-WSL                      3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+WSL                      7 hrs 16 mins       ██████████████░░░░░░░░░░░   54.16 % 
+Linux                    5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
+Windows                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (58.89%)
+⏱ AI Coding Time: 7 hrs 32 mins (56.18%)
 
-✍️ 1,394 lines written by AI, 49 lines written by hand (96.6% AI-written)
+✍️ 3,207 lines written by AI, 97 lines written by hand (97.06% AI-written)
 
-🔤 2,529,277 Input Tokens, 549,544 Output Tokens
+🔤 2,693,509 Input Tokens, 693,230 Output Tokens
 
-💵 $339.28 Estimated AI Cost This Week
+💵 $453.90 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 118 AI Prompts
+🧠 56 AI Sessions, 183 AI Prompts
 
-GLM                      1,396 lines         ███████████████████████░░   93.44 % 
-DeepSeek                 98 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+DeepSeek                 2,052 lines         ███████████████░░░░░░░░░░   59.51 % 
+GLM                      1,396 lines         ██████████░░░░░░░░░░░░░░░   40.49 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.6% of written lines came from AI
-📄 Detailed Prompter — average 581 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🤖 AI-Driven — 97.06% of written lines came from AI
+📚 Verbose Prompter — average 4,372 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.28% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -109,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-29 23:57:52 UTC
+ Last Updated on 2026-10-30 23:39:15 UTC
 <!--END_SECTION:waka-->
