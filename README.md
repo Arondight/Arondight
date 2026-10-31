@@ -1,9 +1,9 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,28 +48,28 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    6 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.69 % 
-C                        4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other                    6 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.08 % 
+C                        4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 编辑器: 
-Vim                      6 hrs 44 mins       █████████████░░░░░░░░░░░░   50.11 % 
-Pi                       5 hrs               █████████░░░░░░░░░░░░░░░░   37.22 % 
-OpenCode                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Vim                      6 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.75 % 
+Pi                       5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.67 % 
+OpenCode                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Opencode Cli             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 操作系统: 
-WSL                      7 hrs 16 mins       ██████████████░░░░░░░░░░░   54.16 % 
-Linux                    5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-Windows                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+WSL                      7 hrs 22 mins       ██████████████░░░░░░░░░░░   54.49 % 
+Linux                    5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.55 % 
+Windows                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 32 mins (56.18%)
+⏱ AI Coding Time: 7 hrs 32 mins (55.77%)
 
 ✍️ 3,207 lines written by AI, 97 lines written by hand (97.06% AI-written)
 
@@ -108,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-30 23:39:15 UTC
+ Last Updated on 2026-10-31 23:16:34 UTC
 <!--END_SECTION:waka-->
