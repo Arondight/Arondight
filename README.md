@@ -1,19 +1,19 @@
 # 关于我
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-17-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-977.51%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-979.15%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 4.5 MB GitHub 存储空间 
  > 
-> 🏆 487 个贡献，在 2026 年
+> 🏆 491 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -24,21 +24,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     1188 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌆 白天                     1672 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌃 傍晚                     1793 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌙 晚上                     393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌞 早晨                     1190 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+🌆 白天                     1674 commits        ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌃 傍晚                     1793 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 晚上                     393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-星期二                      835 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-星期三                      831 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-星期四                      804 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+星期一                      821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+星期二                      835 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+星期三                      831 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+星期四                      804 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 星期五                      579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-星期六                      519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-星期日                      657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+星期六                      523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+星期日                      657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
@@ -48,26 +48,26 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    8 hrs 20 mins       ███████████████████████░░   93.15 % 
-INI                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-C#                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Image (png)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-fstab                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    13 hrs 24 mins      ████████████████████████░   95.51 % 
+INI                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+C#                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Image (png)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+fstab                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 编辑器: 
-Pi                       8 hrs 33 mins       ████████████████████████░   95.62 % 
-Vim                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Pi                       13 hrs 38 mins      ████████████████████████░   97.16 % 
+Vim                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 操作系统: 
-Windows                  7 hrs 24 mins       █████████████████████░░░░   82.68 % 
-WSL                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Windows                  12 hrs 20 mins      ██████████████████████░░░   87.83 % 
+WSL                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Linux                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (0.64%)
+⏱ AI Coding Time: 3 mins (0.41%)
 
 ✍️ 1 lines written by AI, 688 lines written by hand (0.15% AI-written)
 
@@ -103,5 +103,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arondight/Arondight/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-21 01:12:37 UTC
+ Last Updated on 2026-11-22 00:12:26 UTC
 <!--END_SECTION:waka-->
